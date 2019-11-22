@@ -1,0 +1,777 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Awesome Weather Widget - PRO!\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/awesome-weather-pro\n"
+"POT-Creation-Date: 2019-11-18 06:50+0000\n"
+"PO-Revision-Date: 2019-11-18 06:51+0000\n"
+"Last-Translator: Hal Gatewood <hal@halgatewood.com>\n"
+"Language-Team: Russian\n"
+"Language: ru_RU\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10 >= 2 && "
+"n%10<=4 &&(n%100<10||n%100 >= 20)? 1 : 2);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Loco-Target-Locale: ru_RU\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.0; wp-5.3"
+
+#: awesome-weather.php:26
+msgid "Tall"
+msgstr "Высокий"
+
+#: awesome-weather.php:27
+msgid "Wide"
+msgstr "Широкий"
+
+#: awesome-weather.php:28
+msgid "Micro"
+msgstr "Микро"
+
+#: awesome-weather.php:29
+msgid "Showcase"
+msgstr "Витрина"
+
+#: awesome-weather.php:30
+msgid "Long"
+msgstr "Длинный"
+
+#: awesome-weather.php:31
+msgid "Boxed"
+msgstr "Boxed"
+
+#: awesome-weather.php:32
+msgid "Material"
+msgstr "Material"
+
+#: awesome-weather.php:33
+msgid "Basic"
+msgstr "основной"
+
+#: awesome-weather.php:34
+msgid "Custom"
+msgstr "Обычай"
+
+#: awesome-weather.php:285
+msgid "humidity"
+msgstr "влажность"
+
+#: awesome-weather.php:286
+msgid "H"
+msgstr "Ш"
+
+#: awesome-weather.php:287
+msgid "L"
+msgstr "Д"
+
+#: awesome-weather.php:288
+msgid "Now"
+msgstr "Теперь"
+
+#: awesome-weather.php:289
+msgid "wind:"
+msgstr "ветер:"
+
+#: awesome-weather.php:290
+msgid "Weather from"
+msgstr "Погодные"
+
+#: awesome-weather.php:291
+msgid "Set Your Location"
+msgstr "Измените ваше местоположение"
+
+#: awesome-weather.php:292
+msgid "Search: City, State or Country"
+msgstr "Поиск: Город, штат или страна"
+
+#: awesome-weather.php:293
+msgid "City not found, please try again."
+msgstr "Город не может быть найден, попробуйте еще раз."
+
+#: awesome-weather.php:591 awesome-weather.php:1214
+msgid ""
+"Custom template file not found. Please add a file to your theme folder with "
+"this name:"
+msgstr ""
+"Пользовательские файл шаблона не найден. Пожалуйста, добавьте файл в папке "
+"темы с этим именем:"
+
+#: awesome-weather.php:604 awesome-weather.php:1194
+msgid "Weather template not found:"
+msgstr "Шаблон Погода не найден:"
+
+#: awesome-weather.php:620
+msgid "No weather information available"
+msgstr "Информация о погоде недоступна"
+
+#: awesome-weather.php:654
+msgid "No city found in OpenWeatherMap."
+msgstr "Не найдено ни одного города в OpenWeatherMap."
+
+#: awesome-weather.php:655
+msgid "Only one location found. The ID has been set automatically above."
+msgstr ""
+"Только в одном месте нашли. Идентификатор был установлен автоматически выше."
+
+#: awesome-weather.php:656
+msgid "Please confirm your city:"
+msgstr "Пожалуйста, подтвердите свой город:"
+
+#: awesome-weather.php:775
+msgid ""
+"No method of lookup available. Please enter an OpenWeatherMap APPID or "
+"LocationIQ Token in the Settings."
+msgstr ""
+"Нет доступных методов поиска. Пожалуйста, введите APWID OpenWeatherMap или "
+"токен LocationIQ в настройках."
+
+#: awesome-weather.php:789
+msgid "Location could not be geocoded."
+msgstr "Местоположение не может быть геокодировано."
+
+#: awesome-weather.php:1117
+msgid "Powered by Dark Sky"
+msgstr "Работает на Dark Sky"
+
+#: awesome-weather.php:1140
+msgid "extended forecast"
+msgstr "расширенный прогноз"
+
+#: widget.php:159
+msgid "OpenWeatherMap requires an APP ID key to access their weather data."
+msgstr "OpenWeatherMap требует ID ключа APP для доступа к данным о погоде."
+
+#: widget.php:161
+msgid "Get your APPID"
+msgstr "Получить APPID"
+
+#: widget.php:163 widget.php:178
+msgid "and"
+msgstr "а также"
+
+#: widget.php:165 widget.php:180
+msgid "add it to the settings page."
+msgstr "добавьте его на страницу настроек."
+
+#: widget.php:174
+msgid "Dark Sky requires a Secret Key to access their weather data."
+msgstr "Dark Sky требует секретный ключ для доступа к своим данным о погоде."
+
+#: widget.php:176
+msgid "Get your Key"
+msgstr "Получи свой ключ"
+
+#: widget.php:187 awesome-weather-mediabox.php:119
+msgid "Template:"
+msgstr "Шаблон:"
+
+#: widget.php:196 awesome-weather-mediabox.php:128
+msgid "Custom Template Filename:"
+msgstr "Пользовательские Шаблон файла:"
+
+#: widget.php:196 awesome-weather-mediabox.php:128
+msgid "found in theme folder"
+msgstr "найти в папке темы"
+
+#: widget.php:203 widget.php:218
+msgid "Search for Your Location:"
+msgstr "Поиск вашего местоположения:"
+
+#: widget.php:209
+msgid "Latitude,Longitude:"
+msgstr "Широта Долгота:"
+
+#: widget.php:210
+msgid "use the location field above to geolocate."
+msgstr "используйте поле местоположения выше, чтобы определить местоположение."
+
+#: widget.php:223 awesome-weather-mediabox.php:148
+msgid "OpenWeatherMap City ID:"
+msgstr "OpenWeatherMap Город ID:"
+
+#: widget.php:224
+msgid "use the location field above to find the ID for your city"
+msgstr ""
+"используйте поле местоположения выше, чтобы найти идентификатор для вашего "
+"города"
+
+#: widget.php:239 awesome-weather-mediabox.php:164
+msgid "Banner Title:"
+msgstr "Баннер Название:"
+
+#: widget.php:244
+msgid "Widget Title: (optional)"
+msgstr "Титул виджета: (опцонально)"
+
+#: widget.php:251 awesome-weather-mediabox.php:153
+msgid "Forecast:"
+msgstr "Прогноз:"
+
+#: widget.php:254 awesome-weather-mediabox.php:157
+#, php-format
+msgid "%s Day"
+msgid_plural "%s Days"
+msgstr[0] "%s день"
+msgstr[1] "%s дня"
+msgstr[2] "%s дней"
+
+#: widget.php:256 awesome-weather-mediabox.php:159
+msgid "Don't Show"
+msgstr "Не показывать"
+
+#: widget.php:261 awesome-weather-mediabox.php:176
+msgid "Background Image:"
+msgstr "Фоновое изображение:"
+
+#: widget.php:267 awesome-weather-mediabox.php:181
+msgid "Use Different Background Images Based on Weather"
+msgstr "Используйте различные фоновые изображения, основанные на погоду"
+
+#: widget.php:271 awesome-weather-mediabox.php:184
+msgid "Custom Background Color:"
+msgstr "Цвет фона:"
+
+#: widget.php:272
+msgid "overrides color changing"
+msgstr "перехват смены цвета"
+
+#: widget.php:277 awesome-weather-mediabox.php:190
+msgid "Text Color"
+msgstr "Цвет текста"
+
+#: widget.php:295 awesome-weather-mediabox.php:133
+msgid "Units:"
+msgstr "Единицы:"
+
+#: widget.php:303 awesome-weather-mediabox.php:196
+msgid "Use User Location"
+msgstr "Используйте местоположение пользователя"
+
+#: widget.php:307 awesome-weather-mediabox.php:201
+msgid "Allow User to Change the Location"
+msgstr "Разрешить пользователю изменять расположение"
+
+#: widget.php:311
+msgid "Skip HTML5 Geolocation"
+msgstr "Пропустить HTML5 Geolocation"
+
+#: widget.php:351 awesome-weather-mediabox.php:206
+msgid "Show Weather Icons"
+msgstr "Показать Погода иконки"
+
+#: widget.php:356 awesome-weather-mediabox.php:211
+msgid "Hide Stats"
+msgstr "Скрыть статистику"
+
+#: widget.php:361 awesome-weather-mediabox.php:216
+msgid "Hide Weather Attribution"
+msgstr "Скрыть погоды Attribution"
+
+#: widget.php:368 awesome-weather-mediabox.php:221
+msgid "Link to Extended Forecast"
+msgstr "Ссылка на расширенный прогноз"
+
+#: widget.php:372 awesome-weather-mediabox.php:225
+msgid "Custom Extended Forecast URL:"
+msgstr "Пользовательские Расширенный Прогноз URL:"
+
+#: widget.php:377 awesome-weather-mediabox.php:230
+msgid "Custom Extended Forecast Text:"
+msgstr "Пользовательские Расширенный Прогноз текст:"
+
+#: widget.php:383
+msgid "Advanced Options"
+msgstr "Расширенные настройки"
+
+#: widget.php:386
+msgid "Locale:"
+msgstr "Язык:"
+
+#: widget.php:391
+msgid "Widget ID:"
+msgstr "Идентификатор виджета:"
+
+#: awesome-weather-mediabox.php:14
+msgid "Add Awesome Weather Widget Shortcode"
+msgstr "Добавить шорткод для Awesome Weather Widget"
+
+#: awesome-weather-mediabox.php:14
+msgid "Add Weather"
+msgstr "Добавить Погода"
+
+#: awesome-weather-mediabox.php:114
+msgid "Location:"
+msgstr "Место нахождения:"
+
+#: awesome-weather-mediabox.php:115
+msgid "Required"
+msgstr "необходимые"
+
+#: awesome-weather-mediabox.php:140 awesome-weather-mediabox.php:235
+msgid "Insert Weather Widget"
+msgstr "Вставить Weather Widget"
+
+#: awesome-weather-mediabox.php:145
+msgid "Optional"
+msgstr "Необязательный"
+
+#: awesome-weather-mediabox.php:155
+msgid "Default"
+msgstr "По умолчанию"
+
+#: awesome-weather-mediabox.php:169
+msgid "Widget Title:"
+msgstr "Название виджета:"
+
+#: awesome-weather-mediabox.php:236
+msgid "Cancel"
+msgstr "Отмена"
+
+#: awesome-weather-codes.php:7
+msgid "tornado"
+msgstr "торнадо"
+
+#: awesome-weather-codes.php:8
+msgid "tropical storm"
+msgstr "тропическая буря"
+
+#: awesome-weather-codes.php:9
+msgid "hurricane"
+msgstr "ураган"
+
+#: awesome-weather-codes.php:10
+msgid "severe thunderstorms"
+msgstr "сильные грозы"
+
+#: awesome-weather-codes.php:11
+msgid "thunderstorms"
+msgstr "грозы"
+
+#: awesome-weather-codes.php:12
+msgid "thundershowers"
+msgstr "ливни"
+
+#: awesome-weather-codes.php:13
+msgid "mixed rain and snow"
+msgstr "смешанный дождь и снег"
+
+#: awesome-weather-codes.php:14
+msgid "mixed rain and sleet"
+msgstr "смешанные со снегом и дождя"
+
+#: awesome-weather-codes.php:15
+msgid "mixed snow and sleet"
+msgstr "смешанные со снегом и снег"
+
+#: awesome-weather-codes.php:16
+msgid "mixed rain and hail"
+msgstr "смешанный дождь и град"
+
+#: awesome-weather-codes.php:17
+msgid "freezing drizzle"
+msgstr "изморозь"
+
+#: awesome-weather-codes.php:18
+msgid "drizzle"
+msgstr "морось"
+
+#: awesome-weather-codes.php:19
+msgid "freezing rain"
+msgstr "ледяной дождь"
+
+#: awesome-weather-codes.php:20
+msgid "showers"
+msgstr "ливни"
+
+#: awesome-weather-codes.php:21
+msgid "scattered showers"
+msgstr "Переменная облачность"
+
+#: awesome-weather-codes.php:22
+msgid "snow flurries"
+msgstr "порывы снега"
+
+#: awesome-weather-codes.php:23
+msgid "light snow showers"
+msgstr "легкие снег"
+
+#: awesome-weather-codes.php:24
+msgid "blowing snow"
+msgstr "низовая метель"
+
+#: awesome-weather-codes.php:25
+msgid "snow"
+msgstr "снег"
+
+#: awesome-weather-codes.php:26
+msgid "scattered snow showers"
+msgstr "разбросанные снег"
+
+#: awesome-weather-codes.php:27
+msgid "heavy snow"
+msgstr "снегопад"
+
+#: awesome-weather-codes.php:28
+msgid "snow showers"
+msgstr "cнегопады"
+
+#: awesome-weather-codes.php:29
+msgid "hail"
+msgstr "град"
+
+#: awesome-weather-codes.php:30
+msgid "sleet"
+msgstr "дождь со снегом"
+
+#: awesome-weather-codes.php:31 providers/openweathermaps.php:430
+msgid "dust"
+msgstr "пыли"
+
+#: awesome-weather-codes.php:32
+msgid "foggy"
+msgstr "туманный"
+
+#: awesome-weather-codes.php:33
+msgid "haze"
+msgstr "мгла"
+
+#: awesome-weather-codes.php:34
+msgid "windy"
+msgstr "ветреный"
+
+#: awesome-weather-codes.php:35
+msgid "cold"
+msgstr "холодно"
+
+#: awesome-weather-codes.php:36
+msgid "hot"
+msgstr "горячий"
+
+#: awesome-weather-codes.php:37
+msgid "cloudy"
+msgstr "облачный"
+
+#: awesome-weather-codes.php:38
+msgid "smoky"
+msgstr "дымчатый"
+
+#: awesome-weather-codes.php:39
+msgid "mostly cloudy"
+msgstr "в основном облачно"
+
+#: awesome-weather-codes.php:40
+msgid "partly cloudy"
+msgstr "Переменная облачность"
+
+#: awesome-weather-codes.php:41
+msgid "clear"
+msgstr "Чисто"
+
+#: awesome-weather-codes.php:42
+msgid "sunny"
+msgstr "солнечно"
+
+#: awesome-weather-codes.php:43
+msgid "fair"
+msgstr "Справедливая"
+
+#: awesome-weather-codes.php:44
+msgid "isolated thunderstorms"
+msgstr "изолированные грозы"
+
+#: awesome-weather-codes.php:45
+msgid "scattered thunderstorms"
+msgstr "рассеянные грозы"
+
+#: awesome-weather-codes.php:46
+msgid "calm"
+msgstr "спокойствие"
+
+#: awesome-weather-codes.php:47
+msgid "breezy"
+msgstr "свежий"
+
+#: awesome-weather-settings.php:18
+msgid "Awesome Weather Widget"
+msgstr "Awesome Weather Widget"
+
+#: awesome-weather-settings.php:22
+msgid "Weather Widget Cache Cleared"
+msgstr "Кэш был очищен"
+
+#: awesome-weather-settings.php:33
+msgid "Clear all Awesome Weather Widget Cache"
+msgstr "Очистить все Удивительный Погода Виджет Кэш"
+
+#: awesome-weather-settings.php:43
+msgid "Settings"
+msgstr "Настройки"
+
+#: awesome-weather-settings.php:46
+msgid "Donate"
+msgstr ""
+
+#: awesome-weather-settings.php:65
+msgid "Default Weather Provider"
+msgstr ""
+
+#: awesome-weather-settings.php:67
+msgid "OpenWeatherMaps APPID"
+msgstr "OpenWeatherMaps APPID"
+
+#: awesome-weather-settings.php:68
+msgid "Dark Sky Secret Key"
+msgstr "Секретный ключ - Dark Sky"
+
+#: awesome-weather-settings.php:69
+msgid "LocationIQ Token"
+msgstr "LocationIQ Token"
+
+#: awesome-weather-settings.php:70
+msgid "ipinfo.io Token"
+msgstr "Токен для ipinfo.io"
+
+#: awesome-weather-settings.php:71
+msgid "Error Handling"
+msgstr "Обработка ошибок"
+
+#: awesome-weather-settings.php:113 awesome-weather-settings.php:135
+#: awesome-weather-settings.php:155 awesome-weather-settings.php:173
+#: awesome-weather-settings.php:189
+msgid "Defined in wp-config"
+msgstr "Определено в wp-config"
+
+#: awesome-weather-settings.php:123
+msgid ""
+"Where do you want your weather data to be provided from. If you change this, "
+"it's a good idea to clear the cache below."
+msgstr ""
+"\n"
+"Где вы хотите, чтобы ваши данные погодные которые будут выделены в. Если вы "
+"измените это, это хорошая идея, чтобы очистить кэш ниже."
+
+#: awesome-weather-settings.php:142
+msgid "Get an APPID"
+msgstr "Получить APPID"
+
+#: awesome-weather-settings.php:162
+msgid "Get a Secret Key"
+msgstr "Получить секретный ключ"
+
+#: awesome-weather-settings.php:180 awesome-weather-settings.php:197
+msgid "Get a Token"
+msgstr "Получить токен"
+
+#: awesome-weather-settings.php:196
+msgid ""
+"ipinfo.io attempts to convert IP addresses to latitude and longitude. "
+"Without a token you can do 1,000 requests a day. If you need more, you will "
+"need a token. "
+msgstr ""
+"ipinfo.io пытается конвертировать IP-адреса в широту и долготу. Без токена "
+"вы можете выполнять 1000 запросов в день. Если вам нужно больше, вам "
+"понадобится токен."
+
+#: awesome-weather-settings.php:207
+msgid "Hidden in Source"
+msgstr "Скрытые в Источник"
+
+#: awesome-weather-settings.php:208
+msgid "Display if Admin"
+msgstr "Показать, если Админ"
+
+#: awesome-weather-settings.php:209
+msgid "Display for Anyone"
+msgstr "Показать для тех, кто"
+
+#: awesome-weather-settings.php:212
+msgid "What should the plugin do when there is an error?"
+msgstr "Что должен делать плагин, когда есть ошибка?"
+
+#: providers/openweathermaps.php:18 providers/openweathermaps.php:286
+#: providers/openweathermaps.php:354 providers/darksky.php:7
+msgid "N"
+msgstr "С"
+
+#: providers/openweathermaps.php:18 providers/openweathermaps.php:286
+#: providers/openweathermaps.php:354 providers/darksky.php:7
+msgid "NNE"
+msgstr "ССВ"
+
+#: providers/openweathermaps.php:18 providers/openweathermaps.php:286
+#: providers/openweathermaps.php:354 providers/darksky.php:7
+msgid "NE"
+msgstr "СВ"
+
+#: providers/openweathermaps.php:18 providers/openweathermaps.php:286
+#: providers/openweathermaps.php:354 providers/darksky.php:7
+msgid "ENE"
+msgstr "ВСВ"
+
+#: providers/openweathermaps.php:18 providers/openweathermaps.php:286
+#: providers/openweathermaps.php:354 providers/darksky.php:7
+msgid "E"
+msgstr "В"
+
+#: providers/openweathermaps.php:18 providers/openweathermaps.php:286
+#: providers/openweathermaps.php:354 providers/darksky.php:7
+msgid "ESE"
+msgstr "ВЮВ"
+
+#: providers/openweathermaps.php:18 providers/openweathermaps.php:286
+#: providers/openweathermaps.php:354 providers/darksky.php:7
+msgid "SE"
+msgstr "ЮВ"
+
+#: providers/openweathermaps.php:18 providers/openweathermaps.php:286
+#: providers/openweathermaps.php:354 providers/darksky.php:7
+msgid "SSE"
+msgstr "ЮЮВ"
+
+#: providers/openweathermaps.php:18 providers/openweathermaps.php:286
+#: providers/openweathermaps.php:354 providers/darksky.php:7
+msgid "S"
+msgstr "Ю"
+
+#: providers/openweathermaps.php:18 providers/openweathermaps.php:286
+#: providers/openweathermaps.php:354 providers/darksky.php:7
+msgid "SSW"
+msgstr "ЮЮЗ"
+
+#: providers/openweathermaps.php:18 providers/openweathermaps.php:286
+#: providers/openweathermaps.php:354 providers/darksky.php:7
+msgid "SW"
+msgstr "ЮЗ"
+
+#: providers/openweathermaps.php:18 providers/openweathermaps.php:286
+#: providers/openweathermaps.php:354 providers/darksky.php:7
+msgid "WSW"
+msgstr "ЗЮЗ"
+
+#: providers/openweathermaps.php:18 providers/openweathermaps.php:286
+#: providers/openweathermaps.php:354 providers/darksky.php:7
+msgid "W"
+msgstr "З"
+
+#: providers/openweathermaps.php:18 providers/openweathermaps.php:286
+#: providers/openweathermaps.php:354 providers/darksky.php:7
+msgid "WNW"
+msgstr "ЗСЗ"
+
+#: providers/openweathermaps.php:18 providers/openweathermaps.php:286
+#: providers/openweathermaps.php:354 providers/darksky.php:7
+msgid "NW"
+msgstr "СЗ"
+
+#: providers/openweathermaps.php:18 providers/openweathermaps.php:286
+#: providers/openweathermaps.php:354 providers/darksky.php:7
+msgid "NNW"
+msgstr "ССЗ"
+
+#: providers/openweathermaps.php:32
+msgid "Weather Geolocation Not Found"
+msgstr "Географическое положение не найдено"
+
+#: providers/openweathermaps.php:46
+msgid "Weather Location Not Found"
+msgstr "Местоположение погоды не найдено"
+
+#: providers/openweathermaps.php:86 providers/darksky.php:30
+msgid "Weather Location Not Set"
+msgstr "Местонахождение погоды не установлен"
+
+#: providers/openweathermaps.php:185 providers/darksky.php:121
+#: providers/darksky.php:194
+msgid "m/s"
+msgstr "m/s"
+
+#: providers/openweathermaps.php:283 providers/openweathermaps.php:351
+#: providers/darksky.php:169
+msgid "Sun"
+msgstr "Вс"
+
+#: providers/openweathermaps.php:283 providers/openweathermaps.php:351
+#: providers/darksky.php:169
+msgid "Mon"
+msgstr "Пн"
+
+#: providers/openweathermaps.php:283 providers/openweathermaps.php:351
+#: providers/darksky.php:169
+msgid "Tue"
+msgstr "Вт"
+
+#: providers/openweathermaps.php:283 providers/openweathermaps.php:351
+#: providers/darksky.php:169
+msgid "Wed"
+msgstr "Ср"
+
+#: providers/openweathermaps.php:283 providers/openweathermaps.php:351
+#: providers/darksky.php:169
+msgid "Thu"
+msgstr "Чт"
+
+#: providers/openweathermaps.php:283 providers/openweathermaps.php:351
+#: providers/darksky.php:169
+msgid "Fri"
+msgstr "Пт"
+
+#: providers/openweathermaps.php:283 providers/openweathermaps.php:351
+#: providers/darksky.php:169
+msgid "Sat"
+msgstr "Сб"
+
+#: providers/openweathermaps.php:424
+msgid "mist"
+msgstr "туман"
+
+#: providers/openweathermaps.php:429
+msgid "sand"
+msgstr "песок"
+
+#: providers/openweathermaps.php:431
+msgid "volcanic ash"
+msgstr "вулканический пепел"
+
+#: providers/openweathermaps.php:432
+msgid "squalls"
+msgstr "шквалы"
+
+#: providers/openweathermaps.php:453
+msgid "storm"
+msgstr "буря"
+
+#: providers/openweathermaps.php:454
+msgid "violent storm"
+msgstr "сильный шторм"
+
+#: providers/darksky.php:113 providers/darksky.php:186
+msgid "km/h"
+msgstr "км / ч"
+
+#: providers/darksky.php:117 providers/darksky.php:190
+msgid "mph"
+msgstr "миль / ч"
+
+#. Description of the plugin
+msgid "A weather widget that actually looks cool"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://halgatewood.com/awesome-weather"
+msgstr ""
+
+#. Author of the plugin
+msgid "Hal Gatewood"
+msgstr "Hal Gatewood"
+
+#. Author URI of the plugin
+msgid "https://www.halgatewood.com"
+msgstr "https://www.halgatewood.com"
